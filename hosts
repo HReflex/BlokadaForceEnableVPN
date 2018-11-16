@@ -1,2 +1,2 @@
 # This host file is simply to have blokada enable its VPN to forward DNS traffic to my home server.
-0.0.0.0 graph.facebook.com
+# 0.0.0.0 graph.facebook.com
